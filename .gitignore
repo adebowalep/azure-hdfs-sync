@@ -22,7 +22,7 @@ __pycache__/
 
 # Ignore presentation output (optional)
 *.pptx
-#*.png
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -93,13 +93,5 @@ python download_from_azure.py
 
 ---
 
-## ✅ Notes
-- No Azure Batch or compute resources are involved — this is strictly for file transfer and organization.
-- The pipeline assumes the simulation processing is handled separately.
-- Uses `azure-storage-blob` and `dotenv` for clean credential handling.
-- Ideal for syncing results from cloud simulations for local inspection.
-
----
-
 ## 👤 Author
 **Suleiman Ojo**
