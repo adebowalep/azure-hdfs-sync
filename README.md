@@ -41,7 +41,7 @@ AZURE_STORAGE_CONTAINER_NAME=simulation-data
 
 ---
 
-## 📁 Folder Structure Example
+## 📁 Folder Structure 
 ```
 mock_hdf5_runs/
 ├── run_01/
@@ -51,8 +51,8 @@ mock_hdf5_runs/
 │   ├── sample_01.h5
 │   └── sample_02.h5
 
-.env                 # Not committed to version control
-logs/                # Contains upload.log and download.log
+.env                 
+logs/                
 ```
 
 ---
