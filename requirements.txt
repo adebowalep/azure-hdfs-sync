@@ -1,0 +1,5 @@
+h5py
+numpy
+azure-storage-blob
+python-dotenv
+pandas
